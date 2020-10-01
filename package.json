@@ -1,4 +1,14 @@
 {
+  "name": "node-grep",
+  "version": "0.1.0",
+  "description": "An NodeJS implementation of grep",
+  "main": "index.js",
+  "repository": "https://github.com/Giancarl021/node-grep.git",
+  "author": "Giancarlo Fontela da Luz <gian.f.luz@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "chalk": "^4.1.0"
   }
